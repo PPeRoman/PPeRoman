@@ -1,7 +1,6 @@
 ## Olá!! Eu sou o Pedro Roman Gomes
-<p>
-Acesse meu portifólio: <a href="https://pperoman.github.io/Site-Portifolio/" target="_blank" rel="external">
-</p>
+Acesse meu portifólio: <a href="https://pperoman.github.io/Site-Portifolio/" target="_blank" rel="external"></a>
+
 
 <div align="center">
   <a href="https://github.com/PPeRoman">
